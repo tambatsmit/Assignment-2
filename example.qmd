@@ -8,3 +8,8 @@ format: html
 
 This is a simple Quarto document created for ETC5513 Assignment 2.
 It demonstrates a reproducible workflow with Quarto, git, and GitHub.
+
+## Section added on testbranch
+
+This paragraph was written while working on the testbranch.
+This is the conflicting line.
