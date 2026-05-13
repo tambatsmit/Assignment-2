@@ -9,8 +9,14 @@ format: html
 This is a simple Quarto document created for ETC5513 Assignment 2.
 It demonstrates a reproducible workflow with Quarto, git, and GitHub.
 
+<<<<<<< HEAD
 ## Section added on main
 
 This paragraph was written while working on the main branch.
 
+=======
+## Section added on testbranch
+
+This paragraph was written while working on the testbranch.
+>>>>>>> testbranch
 This is the conflicting line.
